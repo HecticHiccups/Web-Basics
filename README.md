@@ -1,5 +1,12 @@
 # Web-Basics
 HTML, CSS , JS Basics
+## Introduction 
+Hey guys, this is a short intro to learning some Basic Web Development; just incase you didn't catch the title.<br>
+I've made this project because, I'm very passionate about Web Development.(Are you really?! ZOMG)<br>
+This is targeted towards anyone who is curious about Web Development.<br>
+Lastly, I believe that you only truly know something if you can teach it to others. <br>
+Insert cheesy quote here --> ***In teaching others we teach ourselves.*** 
+
 ## Best Sources for Web Development:
 * [W3](http://www.w3schools.com/) - Great For Beginners
 * [FreeCodeCamp](https://www.freecodecamp.com/) -Get More Serious & Learn Responsive Design + Other
@@ -21,7 +28,7 @@ cd NameofDirectory
 ```
 Python -m SimpleHTTPServer 
 ```
-##LocalHost:
+##LocalHost URL:
 Visit your site on Localhost:8000, on any browser e.g Firefox, Chrome etc...
 
 
