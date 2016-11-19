@@ -1,5 +1,9 @@
 # Web-Basics
 HTML, CSS , JS Basics
+## Best Sources for Web Development:
+* [W3](http://www.w3schools.com/) - Great For Beginners
+* [FreeCodeCamp](https://www.freecodecamp.com/) -Get More Serious & Learn Responsive Design + Other
+* [TheOdinProject](http://www.theodinproject.com/courses) - Learn Web Development/Ruby on Rails
 
 ##Pre-Requisites
 You Should have an IDE(Integrated Development Environment) installed such as:
