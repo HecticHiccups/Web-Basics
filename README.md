@@ -7,13 +7,25 @@ This is targeted towards anyone who is curious about Web Development.<br>
 Lastly, I believe that you only truly know something if you can teach it to others. <br>
 Insert cheesy quote here --> ***In teaching others we teach ourselves.*** <--
 
+## Purpose
+I didn't make this so I can spoonfeed you Web Development, I made this so that you can feed yourself.
+I'm simply leading by example, and letting you decipher these examples by providing you with the best resources I've come across.
+I'm a self taught Web Developer and I've learned everything I know on my own.
+Ofcourse some of you might be visual learners(videos) and some might be readers(Books).
+Regardless of the matter find your learning style, and stick to it.
+
+**SIDE NOTE:** From what I've seen those who read know way more. <br>
+**Noob:** But what do I read? <br>
+**Me:** Well, theres tons of documentation of whatever you're trying to learn. The best developers aren't just great coders, they are  resourceful. <br>
+
+
 ## Getting Started 
 In order to begin you must 'git clone', or download this repository. <br>
  Don't Know [Git?](https://try.github.io/levels/1/challenges/1)
  
 ## Best Sources for Web Development:
 * [W3](http://www.w3schools.com/) - Great For Beginners
-* [FreeCodeCamp](https://www.freecodecamp.com/) -Get More Serious & Learn Responsive Design + Other
+* [FreeCodeCamp](https://www.freecodecamp.com/) -Get More Serious & Learn Responsive Design + JS Frameworks
 * [TheOdinProject](http://www.theodinproject.com/courses) - Learn Web Development/Ruby on Rails
 
 ## Pre-Requisites:
