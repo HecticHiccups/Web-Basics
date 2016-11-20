@@ -25,6 +25,7 @@ In order to begin you must 'git clone', or download this repository. <br>
  
 ## Best Sources for Web Development:
 * [W3](http://www.w3schools.com/) - Great For Beginners
+* [Codecademy](https://www.codecademy.com) - A little bit of everything
 * [FreeCodeCamp](https://www.freecodecamp.com/) -Get More Serious & Learn Responsive Design + JS Frameworks
 * [TheOdinProject](http://www.theodinproject.com/courses) - Learn Web Development/Ruby on Rails
 
@@ -35,7 +36,9 @@ You Should have an IDE(Integrated Development Environment) installed such as:
 * [Sublime](https://www.sublimetext.com/) - The Most Common Editor.
 
 ## Run a Simple Web Server --> [Server Basics](http://www.2ality.com/2014/06/simple-http-server.html)
-You can run a Simple Web server in your Terminal on a Mac by:(**Python Might Be Required**)
+You can run a Simple Web server in your Terminal on a Mac by:
+[Need Help?](http://www.gnu.org/software/bash/manual/bashref.html)
+
 ```
 cd Desktop
 cd NameofDirectory
@@ -46,5 +49,11 @@ Python -m SimpleHTTPServer
 ```
 ##LocalHost URL:
 Visit your site on Localhost:8000, on any browser e.g Firefox, Chrome etc...
+
+##Great Practice 
+It's been known to be good practice to validate your code to meet the standards of Web Development. <br>
+Upload any files that need Validation e.g *HTML,CSS,JS* [W3C](https://validator.w3.org/#validate_by_upload). <br>
+For More information about the World Wide Web Consortium. [Info](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) <br>
+Feel free to upload the provided ***index.html*** into the validitor, you may be intrigued to see what is considered obsolete. 
 
 
