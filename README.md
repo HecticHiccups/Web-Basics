@@ -1,5 +1,5 @@
 # Web-Basics
-HTML, CSS , JS Basics
+
 ## Introduction 
 Hey guys, this is a short intro to learning some Basic Web Development; just incase you didn't catch the title.<br>
 I've made this project because, I'm very passionate about Web Development. (Are you really?! ZOMG)<br>
