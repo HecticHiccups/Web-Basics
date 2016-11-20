@@ -11,7 +11,7 @@ Insert cheesy quote here --> ***In teaching others we teach ourselves.*** <--
 I didn't make this so I can spoonfeed you Web Development, I made this so that you can feed yourself.
 I'm simply leading by example, and letting you decipher these examples by providing you with the best resources I've come across.
 I'm a self taught Web Developer and I've learned everything I know on my own.
-Ofcourse some of you might be visual learners(videos) and some might be readers(Books).
+Ofcourse some of you might be visual learners and some might be readers.
 Regardless of the matter find your learning style, and stick to it.
 
 **SIDE NOTE:** From what I've seen those who read know way more. <br>
